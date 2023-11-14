@@ -1,0 +1,6 @@
+django
+django-oidc-provider
+django-cors-headers
+black
+isort
+#https://github.com/juanifioren/django-oidc-provider/archive/master.zip
